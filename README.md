@@ -4,12 +4,9 @@ A content managemnt system to suit all of your needs! If your needs involve crea
 
 # Technologies
 ### Back End
-- [Google Cloud SQL](https://duckduckgo.com/?t=canonical&q=google+cloud+sql&atb=v207-1&ia=web)
-  - Fully managed, scalable MySQL service
-- [Django](https://www.djangoproject.com/)
-  - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
- 
+- [Google Cloud SQL](https://duckduckgo.com/?t=canonical&q=google+cloud+sql&atb=v207-1&ia=web), fully managed, scalable MySQL service.
+- [Django](https://www.djangoproject.com/), high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
  
  ### Front End
- - [Bootstrap](https://getbootstrap.com/)
-  - Bootstrap helps quickly design and customize responsive mobile-first sites 
+ - [Bootstrap](https://getbootstrap.com/), helps quickly design and customize responsive mobile-first sites 
